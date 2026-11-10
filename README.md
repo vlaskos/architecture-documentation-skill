@@ -1,4 +1,4 @@
-# documenting-software-architectures
+# architecture-documentation-skill
 
 A Claude skill for producing and reviewing software architecture documentation, grounded in open standards rather than any single textbook.
 
@@ -41,8 +41,8 @@ references/
 **Claude Code (CLI):**
 
 ```bash
-git clone https://github.com/vlaskos/documenting-software-architectures.git \
-  ~/.claude/skills/documenting-software-architectures
+git clone https://github.com/vlaskos/architecture-documentation-skill.git \
+  ~/.claude/skills/architecture-documentation-skill
 ```
 
 Claude Code discovers skills under `~/.claude/skills/`. The skill activates when you ask it to document or review a software architecture.

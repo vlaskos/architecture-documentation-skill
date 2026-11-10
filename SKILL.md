@@ -1,5 +1,5 @@
 ---
-name: documenting-software-architectures
+name: architecture-documentation-skill
 description: Produce and review software architecture documentation grounded in open standards — ISO/IEC/IEEE 42010, the arc42 template, the C4 model, the 4+1 view model, and Architecture Decision Records. Use when you need to document a system's architecture, decide which views to write for which stakeholders, structure an architecture description, capture decisions with their rationale, or review existing architecture docs for completeness and clarity.
 license: MIT
 ---
